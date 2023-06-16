@@ -1,0 +1,22 @@
+{
+  "items": [
+    {
+      "id": "Imagem1",
+      "name": "PLANTA1",
+      "description": "Description 1",
+      "qrCode": ""
+    },
+    {
+      "id": "Imagem2",
+      "name": "PLANTA2",
+      "description": "Description 2",
+      "qrCode": ""
+    },
+    {
+      "id": "Imagem3",
+      "name": "PLANTA3",
+      "description": "Description 3",
+      "qrCode": ""
+    }
+  ]
+}

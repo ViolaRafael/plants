@@ -1,0 +1,237 @@
+[
+  {
+    "question": "O tomilho reduz a:",
+    "answers": ["Pressão arterial ", "Febre", "Dor muscular", "Dor de cabeçaW"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "question": "Durante o período de gravidez, o tomilho é aconselhável pelos médicos?",
+    "answers": ["Sim, porque este reduz a pressão arterial", "Não, este tem de ser evitado", "Sim, só no caso de sentir dores"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "question": "Sim, só no caso de sentir dores",
+    "answers": ["Não, os adultos estão proibidos de consumir", "Não, este não é aconselhável para crianças com menos de 6 anos"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "question": "O tomilho é uma erva aromática de que espécie?",
+    "answers": [" Thymus vulgaris", "Ocimum basilicum", " Mentha piperita", "Melissa officinalis"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "question": "Qual parte da planta de alecrim é comumente utilizada na culinária?",
+    "answers": ["Caule", "Flores", "Raiz", "Folhas"],
+    "correctAnswerIndex": 3
+  },
+  {
+    "question": "Quais são as principais utilizações do alecrim além da culinária?",
+    "answers": ["Cosméticos e produtos de cuidados com a pele", "Perfumaria e aromaterapia", "Todas as opções anteriores", "Medicina tradicional e fitoterapia"],
+    "correctAnswerIndex": 2
+  },
+  {
+    "question": "No que diz respeito ao chá, devemos usar quantas folhas de uma vez?",
+    "answers": ["4 folhas", "2 folhas", "1 folha", "3 folhas"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "question": "Quais são as propriedades medicinais atribuídas ao alecrim?",
+    "answers": ["Redução da ansiedade e melhora", "Alívio de dores musculares e articulares", "Melhoria do sistema cardiovascular", "Estimulação do sistema imunológico"],
+    "correctAnswerIndex": 2
+  },
+  {
+    "question": "Qual parte da planta de salsa é comumente utilizada na culinária?",
+    "answers": ["Raiz", "Folhas", "Caule", "Flores"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "question": "Qual é a vitamina potencialmente perigosa presente na salsa?",
+    "answers": ["Vitamina K", "Ferro", "Vitamina A", "Cálcio"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "question": "De qual país a Salsa originou?",
+    "answers": ["China", "Itália", "Cuba", "Marrocos"],
+    "correctAnswerIndex": 2
+  },
+  {
+    "question": "Que tipo de família de plantas pertence a Salsa",
+    "answers": ["Asteraceae", "Herbácea", "Poaceae", "Mentha piperita"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "question": "orégão é utilizado somente para culinária?",
+    "answers": ["Sim, este serve somente para comidas", "Não, porque este serve para chá e comidas."],
+    "correctAnswerIndex": 0
+  },
+  {
+    "question": "Pessoas intolerantes ao orégano apresentam irritações após consumi-lo?",
+    "answers": ["Sim, apresentam irritação e entre outros sintomas.", "Não, porque este não apresenta complicações"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "question": "Orégano, não é considerado uma erva aromática?",
+    "answers": ["Verdade", "Falso"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "question": "Quanto é 1x1?",
+    "answers": ["2", "4", "8", "1"],
+    "correctAnswerIndex": 3
+  },
+  {
+    "question": "Quanto é 1x1?",
+    "answers": ["2", "4", "8", "1"],
+    "correctAnswerIndex": 3
+  },
+  {
+    "question": "Quanto é 1x1?",
+    "answers": ["2", "4", "8", "1"],
+    "correctAnswerIndex": 3
+  },
+  {
+    "question": "Quanto é 1x1?",
+    "answers": ["2", "4", "8", "1"],
+    "correctAnswerIndex": 3
+  },
+  {
+    "question": "Quanto é 1x1?",
+    "answers": ["2", "4", "8", "1"],
+    "correctAnswerIndex": 3
+  },
+  {
+    "question": "Quanto é 1x1?",
+    "answers": ["2", "4", "8", "1"],
+    "correctAnswerIndex": 3
+  },
+  {
+    "question": "Quanto é 1x1?",
+    "answers": ["2", "4", "8", "1"],
+    "correctAnswerIndex": 3
+  },
+  {
+    "question": "Quanto é 1x1?",
+    "answers": ["2", "4", "8", "1"],
+    "correctAnswerIndex": 3
+  },
+  {
+    "question": "Quanto é 1x1?",
+    "answers": ["2", "4", "8", "1"],
+    "correctAnswerIndex": 3
+  },
+  {
+    "question": "Quanto é 1x1?",
+    "answers": ["2", "4", "8", "1"],
+    "correctAnswerIndex": 3
+  },
+  {
+    "question": "Quanto é 1x1?",
+    "answers": ["2", "4", "8", "1"],
+    "correctAnswerIndex": 3
+  },
+  {
+    "question": "Quanto é 1x1?",
+    "answers": ["2", "4", "8", "1"],
+    "correctAnswerIndex": 3
+  },
+  {
+    "question": "Quanto é 1x1?",
+    "answers": ["2", "4", "8", "1"],
+    "correctAnswerIndex": 3
+  },
+  {
+    "question": "Quanto é 1x1?",
+    "answers": ["2", "4", "8", "1"],
+    "correctAnswerIndex": 3
+  },
+  {
+    "question": "Quanto é 1x1?",
+    "answers": ["2", "4", "8", "1"],
+    "correctAnswerIndex": 3
+  },
+  {
+    "question": "Quanto é 1x1?",
+    "answers": ["2", "4", "8", "1"],
+    "correctAnswerIndex": 3
+  },
+  {
+    "question": "Quanto é 1x1?",
+    "answers": ["2", "4", "8", "1"],
+    "correctAnswerIndex": 3
+  },
+  {
+    "question": "Quanto é 1x1?",
+    "answers": ["2", "4", "8", "1"],
+    "correctAnswerIndex": 3
+  },
+  {
+    "question": "Quanto é 1x1?",
+    "answers": ["2", "4", "8", "1"],
+    "correctAnswerIndex": 3
+  },
+  {
+    "question": "Quanto é 1x1?",
+    "answers": ["2", "4", "8", "1"],
+    "correctAnswerIndex": 3
+  },
+  {
+    "question": "Quanto é 1x1?",
+    "answers": ["2", "4", "8", "1"],
+    "correctAnswerIndex": 3
+  },
+  {
+    "question": "Quanto é 1x1?",
+    "answers": ["2", "4", "8", "1"],
+    "correctAnswerIndex": 3
+  },
+  {
+    "question": "Quanto é 1x1?",
+    "answers": ["2", "4", "8", "1"],
+    "correctAnswerIndex": 3
+  },
+  {
+    "question": "Quanto é 1x1?",
+    "answers": ["2", "4", "8", "1"],
+    "correctAnswerIndex": 3
+  },
+  {
+    "question": "Quanto é 1x1?",
+    "answers": ["2", "4", "8", "1"],
+    "correctAnswerIndex": 3
+  },
+  {
+    "question": "Quanto é 1x1?",
+    "answers": ["2", "4", "8", "1"],
+    "correctAnswerIndex": 3
+  },
+  {
+    "question": "Quanto é 1x1?",
+    "answers": ["2", "4", "8", "1"],
+    "correctAnswerIndex": 3
+  },
+  {
+    "question": "Quanto é 1x1?",
+    "answers": ["2", "4", "8", "1"],
+    "correctAnswerIndex": 3
+  },
+  {
+    "question": "Quanto é 1x1?",
+    "answers": ["2", "4", "8", "1"],
+    "correctAnswerIndex": 3
+  },
+  {
+    "question": "Quanto é 1x1?",
+    "answers": ["2", "4", "8", "1"],
+    "correctAnswerIndex": 3
+  },
+  {
+    "question": "Quanto é 1x1?",
+    "answers": ["2", "4", "8", "1"],
+    "correctAnswerIndex": 3
+  },
+  {
+    "question": "Quanto é 1x1?",
+    "answers": ["2", "4", "8", "1"],
+    "correctAnswerIndex": 3
+  }
+]
